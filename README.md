@@ -1,4 +1,4 @@
-# Hello World
+# My Token
 
 This Solidity program is a simple program to create your own token with simple features of mint and burn. It demonstrates the basic syntax and functionality of the Solidity programming language. The purpose of this program is to make new Solidity learners to understand the fundamentals of Solidity.
 
